@@ -1,0 +1,22 @@
+Exercise 2: Flower Carousel and Cards (Front-End Focus)
+This exercise is focused on frontend development, with the goal of creating an attractive
+webpage.
+Requirements:
+
+<!-- 1. Carousel:
+   o Create a Bootstrap carousel displaying five photos of flowers.
+   o Refer to the Bootstrap official documentation for guidance. -->
+
+<!--  Cards:
+   o Create five Bootstrap cards.
+   o Each card should:
+   ▪ Display a different flower photo.
+   ▪ Include a short description of the flower (e.g., 4-5 words, which you
+   can find on Wikipedia).
+   ▪ Have a unique background color.
+   o Cards should be of the same size and aligned in the center of the page.
+   o Interactive Feature: When the user hovers over a card: -->
+<!--
+o The card should increase slightly in size. -->
+
+o The card should slowly rotate along the Y-axis, creating a 3D flip effect.
